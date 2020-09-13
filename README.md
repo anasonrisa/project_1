@@ -2,4 +2,4 @@
 
 ##i edit the text
 
-I learn got 
+I learn git
